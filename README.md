@@ -1,7 +1,7 @@
 # multispectral_image_analysis
 Classification of multispectral satellite imagery in python
 
-# /imagery
+# /images
 ASTER satellite imagery data for the Cuprite hydrothermal alterarion site southwen Nevada
 
 # /notebooks
